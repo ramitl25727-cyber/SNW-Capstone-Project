@@ -445,6 +445,9 @@ footer {
   .story-container {
     flex-direction: column;
   }
+   .about-text{
+    flex-direction: column;
+  }
 }
 /* ==============================
    CONTACT PAGE STYLING
